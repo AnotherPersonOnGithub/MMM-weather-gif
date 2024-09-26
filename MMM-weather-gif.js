@@ -17,7 +17,7 @@ const GIF_URLS = {
   "night-alt-cloudy-windy": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/wind.svg"
 };
 
-Module.register("weather-gif", {
+Module.register("MMM-weather-gif", {
   // Initialize the module.
   start: function () {
     this.loaded = false;
