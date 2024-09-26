@@ -8,7 +8,7 @@ Use at your own risk. There are no guarantees or warranties on this code. GIFs i
 Register in config.js using:
 
           {
-            module: "weather-gif",
+            module: "MMM-weather-gif",
             position: "lower_third", // Standard MagicMirror position
             config: {
               alignment: "center" // Options: "left", "center", or "right"
